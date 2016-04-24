@@ -12,20 +12,31 @@
   border-color: red;
 }
 
-*/
+
 * {
   background-color: #292929;
   color: white;
 }
-
+*/
 body {
   background-color: #292929;
+  color: white;
+  font-family: 'Sarala', sans-serif;
 }
 
 
 .jumbotron {
-  background-color: #292929;
-  text-align: center;
+  background-image:url('lightsjumbo.jpg');
+    margin-bottom: 0px;
+    background-size: cover;
+background-repeat: no-repeat;
+color: white;
+text-shadow: black 0.3em 0.3em 0.3em;
+text-align: center;
+}
+
+.row5{
+text-align: center;
 }
 
 
